@@ -1,8 +1,8 @@
-# OpenGL C++ development using VS Code and GCC
+# C++ development using VS Code and GCC
 
-In this repository, I share some of my knowledge regarding a completely IDE-free C++ software development environment, as well as useful libraries and tools regarding OpenGL C++ applications.
+In this repository, I share some of my knowledge regarding a completely IDE-free C++ software development environment.
 
-This "guide" (wouldn't actually call it a guide) was elaborated focusing on Microsoft Windows ecosystem, but one wouldn't expect many differences when setting the environment on both macOS or Linux-based OSes. Should even be easier.
+This "guide" was elaborated focusing on Microsoft Windows ecosystem, but one wouldn't expect many differences when setting the environment on both macOS or Linux-based OSes. Should even be easier.
 
 ## Software you'll need
 
